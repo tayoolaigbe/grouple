@@ -15,7 +15,7 @@ export const PricingSection = (props: Props) => {
         >
             <BackdropGradient className="w-8/12 h-full opacity-40 flex flex-col items-center">
                 <GradientText
-                    className="text-4xl font-semibold text-center"
+                    className="text-4xl font-semibold text-center mb-3"
                     element="H2"
                 >
                     Pricing Plans That Fit You Right
